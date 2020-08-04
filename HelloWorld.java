@@ -33,7 +33,7 @@ public class HelloWorld {
         AllTowers.printTowerFour(8);
 
         // 打印日历
-        MonthCalendar monthCalendar = new MonthCalendar(2014, 9, 1);
+        MonthCalendar monthCalendar = new MonthCalendar(2020, 8, 1);
         monthCalendar.printCalendarTitle();
         System.out.println();
         monthCalendar.printCalendarBody();

@@ -59,7 +59,7 @@ public class ZellerConsistency {
                 result = "星期五";
                 break;
         }
-        // System.out.println("今天是: " + result);
+        System.out.println("今天是: " + result);
     }
 
     /**
